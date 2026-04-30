@@ -5,11 +5,8 @@
         "device": "*"
     },
     "files": [
-        "main.blocks",
-        "main.ts",
         "README.md",
         "assets.json",
-        "main.py",
         "tilemap.g.jres",
         "tilemap.g.ts"
     ],
@@ -23,5 +20,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
